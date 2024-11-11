@@ -15,7 +15,7 @@ Here are some notable projects (repositories) on my GitHub. Some are personal pr
    JavaFX GUI.
 3. **[Cryptology-Project](https://github.com/DorShabat/Cryptology-Project)** - Secure Payment with Server Identification Using Schnorr Signature, SM4, and ECDH.
 4. **[Math_Expression_Parser](https://github.com/DorShabat/Math_Expression_Parser)** - Mathematical Expression Evaluation and Differentiation Using LR Parser.
-5. **[Adaptive_Huffman](https://github.com/YuvalRozner/Adaptive_Huffman)** - Adaptive_Huffman.
+5. **[Adaptive_Huffman](https://github.com/YuvalRozner/Adaptive_Huffman)** - Python implementation of Adaptive Huffman Comprassion Algorithm.
 6. **[CEMS - Exams menagment system](https://github.com/YuvalRozner/CEMS)** - Computerized Examination Management System.
 7. **[Minesweeper](https://github.com/YuvalRozner/Minesweeper)** - Java Minesweeper game with
 
